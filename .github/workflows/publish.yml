@@ -14,5 +14,5 @@ jobs:
           username: semkirkels
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: semkirkels/iot_taak_2/taak_2_docker_image
+          repository: nathanbruggeman/iot_taak_2/bert
           tag_with_sha: true
